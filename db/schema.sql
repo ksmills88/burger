@@ -1,0 +1,2 @@
+-- burgers_db
+-- burgers table with fields: id, burger_name, devoured (boolean)
